@@ -23,7 +23,7 @@
 | [2×3 programming header](https://www.digikey.com/en/products/detail/amphenol-cs-fci/67997-206HLF/1878491) | Firmware, has chip | 1 | $0.53 | $0.53 | [Digikey](https://www.digikey.com/en/products/detail/amphenol-cs-fci/67997-206HLF/1878491) |
 | [Two-AA battery holder with wires](https://www.digikey.com/en/products/detail/keystone-electronics/2463/303812?) | Power | 2 | $1.37 | $2.74 | [Digikey](https://www.digikey.com/en/products/detail/keystone-electronics/2463/303812?) |
 | **Parts subtotal** | — | — | — | **$9.54** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$9.54** | — |
+| **Tax & shipping** | — | — | — | **$9.70** | — |
+| **Total** | — | — | — | **$19.24** | — |
 
-$20.46 left of the tier's funding.
+$10.76 left of the tier's funding.
